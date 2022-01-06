@@ -1,0 +1,31 @@
+aside{
+    text-align: center;
+    vertical-align: middle;
+    float:left;
+    display:inline-block
+}
+nav {
+    position: absolute;
+left:200px;
+top:275px;
+display:inline-block
+
+}
+section{
+    float:right;
+    display:inline-block
+
+}
+div{
+    display:inline-block
+}
+p{
+    vertical-align: center;
+    display: block;
+    margin-top: 175px;
+}
+h3{
+    position: relative;
+    top:200px;
+    left:200px;
+}
